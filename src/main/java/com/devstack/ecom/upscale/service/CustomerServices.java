@@ -4,6 +4,6 @@ import com.devstack.ecom.upscale.dto.request.RequestCustomerDto;
 
 public interface CustomerServices {
 
-    public  void create(RequestCustomerDto customerDto);
+    public  void create(RequestCustomerDto dto);
 
 }
